@@ -17,7 +17,7 @@
 - 🎯 Cursos em andamento:
   - **Python do básico ao avançado – Udemy**
   - **Gestor de IA – Christian Barbosa**
-- 📍 Porto Alegre - RS
+- 📍 Canoas - RS
 
 ---
 
